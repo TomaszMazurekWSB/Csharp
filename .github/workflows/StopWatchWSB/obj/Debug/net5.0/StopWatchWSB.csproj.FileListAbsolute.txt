@@ -1,0 +1,16 @@
+C:\Users\jarty\OneDrive\Pulpit\StopWatchWSB\StopWatchWSB\bin\Debug\net5.0\StopWatchWSB.exe
+C:\Users\jarty\OneDrive\Pulpit\StopWatchWSB\StopWatchWSB\bin\Debug\net5.0\StopWatchWSB.deps.json
+C:\Users\jarty\OneDrive\Pulpit\StopWatchWSB\StopWatchWSB\bin\Debug\net5.0\StopWatchWSB.runtimeconfig.json
+C:\Users\jarty\OneDrive\Pulpit\StopWatchWSB\StopWatchWSB\bin\Debug\net5.0\StopWatchWSB.runtimeconfig.dev.json
+C:\Users\jarty\OneDrive\Pulpit\StopWatchWSB\StopWatchWSB\bin\Debug\net5.0\StopWatchWSB.dll
+C:\Users\jarty\OneDrive\Pulpit\StopWatchWSB\StopWatchWSB\bin\Debug\net5.0\ref\StopWatchWSB.dll
+C:\Users\jarty\OneDrive\Pulpit\StopWatchWSB\StopWatchWSB\bin\Debug\net5.0\StopWatchWSB.pdb
+C:\Users\jarty\OneDrive\Pulpit\StopWatchWSB\StopWatchWSB\obj\Debug\net5.0\StopWatchWSB.csprojAssemblyReference.cache
+C:\Users\jarty\OneDrive\Pulpit\StopWatchWSB\StopWatchWSB\obj\Debug\net5.0\StopWatchWSB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarty\OneDrive\Pulpit\StopWatchWSB\StopWatchWSB\obj\Debug\net5.0\StopWatchWSB.AssemblyInfoInputs.cache
+C:\Users\jarty\OneDrive\Pulpit\StopWatchWSB\StopWatchWSB\obj\Debug\net5.0\StopWatchWSB.AssemblyInfo.cs
+C:\Users\jarty\OneDrive\Pulpit\StopWatchWSB\StopWatchWSB\obj\Debug\net5.0\StopWatchWSB.csproj.CoreCompileInputs.cache
+C:\Users\jarty\OneDrive\Pulpit\StopWatchWSB\StopWatchWSB\obj\Debug\net5.0\StopWatchWSB.dll
+C:\Users\jarty\OneDrive\Pulpit\StopWatchWSB\StopWatchWSB\obj\Debug\net5.0\ref\StopWatchWSB.dll
+C:\Users\jarty\OneDrive\Pulpit\StopWatchWSB\StopWatchWSB\obj\Debug\net5.0\StopWatchWSB.pdb
+C:\Users\jarty\OneDrive\Pulpit\StopWatchWSB\StopWatchWSB\obj\Debug\net5.0\StopWatchWSB.genruntimeconfig.cache
