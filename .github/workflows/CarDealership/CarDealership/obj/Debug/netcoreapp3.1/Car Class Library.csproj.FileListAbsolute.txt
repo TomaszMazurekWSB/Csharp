@@ -1,0 +1,3 @@
+C:\Users\jarty\source\repos\CarClassLibrary\Car Class Library\obj\Debug\netcoreapp3.1\Car Class Library.AssemblyInfoInputs.cache
+C:\Users\jarty\source\repos\CarClassLibrary\Car Class Library\obj\Debug\netcoreapp3.1\Car Class Library.AssemblyInfo.cs
+C:\Users\jarty\source\repos\CarClassLibrary\Car Class Library\obj\Debug\netcoreapp3.1\Car Class Library.csproj.CoreCompileInputs.cache

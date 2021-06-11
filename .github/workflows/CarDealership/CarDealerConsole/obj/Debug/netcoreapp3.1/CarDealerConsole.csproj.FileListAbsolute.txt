@@ -1,0 +1,13 @@
+C:\Users\jarty\source\repos\CarClassLibrary\CarDealerConsole\obj\Debug\netcoreapp3.1\CarDealerConsole.csprojAssemblyReference.cache
+C:\Users\jarty\source\repos\CarClassLibrary\CarDealerConsole\obj\Debug\netcoreapp3.1\CarDealerConsole.AssemblyInfoInputs.cache
+C:\Users\jarty\source\repos\CarClassLibrary\CarDealerConsole\obj\Debug\netcoreapp3.1\CarDealerConsole.AssemblyInfo.cs
+C:\Users\jarty\source\repos\CarClassLibrary\CarDealerConsole\obj\Debug\netcoreapp3.1\CarDealerConsole.csproj.CoreCompileInputs.cache
+C:\Users\jarty\source\repos\CarClassLibrary\CarDealerConsole\bin\Debug\netcoreapp3.1\CarDealerConsole.exe
+C:\Users\jarty\source\repos\CarClassLibrary\CarDealerConsole\bin\Debug\netcoreapp3.1\CarDealerConsole.deps.json
+C:\Users\jarty\source\repos\CarClassLibrary\CarDealerConsole\bin\Debug\netcoreapp3.1\CarDealerConsole.runtimeconfig.json
+C:\Users\jarty\source\repos\CarClassLibrary\CarDealerConsole\bin\Debug\netcoreapp3.1\CarDealerConsole.runtimeconfig.dev.json
+C:\Users\jarty\source\repos\CarClassLibrary\CarDealerConsole\bin\Debug\netcoreapp3.1\CarDealerConsole.dll
+C:\Users\jarty\source\repos\CarClassLibrary\CarDealerConsole\bin\Debug\netcoreapp3.1\CarDealerConsole.pdb
+C:\Users\jarty\source\repos\CarClassLibrary\CarDealerConsole\obj\Debug\netcoreapp3.1\CarDealerConsole.dll
+C:\Users\jarty\source\repos\CarClassLibrary\CarDealerConsole\obj\Debug\netcoreapp3.1\CarDealerConsole.pdb
+C:\Users\jarty\source\repos\CarClassLibrary\CarDealerConsole\obj\Debug\netcoreapp3.1\CarDealerConsole.genruntimeconfig.cache

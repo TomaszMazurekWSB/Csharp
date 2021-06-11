@@ -1,0 +1,9 @@
+C:\Users\jarty\source\repos\CarClassLibrary\CarClassLibrary\bin\Debug\netcoreapp3.1\CarClassLibrary.deps.json
+C:\Users\jarty\source\repos\CarClassLibrary\CarClassLibrary\bin\Debug\netcoreapp3.1\CarClassLibrary.dll
+C:\Users\jarty\source\repos\CarClassLibrary\CarClassLibrary\bin\Debug\netcoreapp3.1\CarClassLibrary.pdb
+C:\Users\jarty\source\repos\CarClassLibrary\CarClassLibrary\obj\Debug\netcoreapp3.1\CarClassLibrary.csprojAssemblyReference.cache
+C:\Users\jarty\source\repos\CarClassLibrary\CarClassLibrary\obj\Debug\netcoreapp3.1\CarClassLibrary.AssemblyInfoInputs.cache
+C:\Users\jarty\source\repos\CarClassLibrary\CarClassLibrary\obj\Debug\netcoreapp3.1\CarClassLibrary.AssemblyInfo.cs
+C:\Users\jarty\source\repos\CarClassLibrary\CarClassLibrary\obj\Debug\netcoreapp3.1\CarClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jarty\source\repos\CarClassLibrary\CarClassLibrary\obj\Debug\netcoreapp3.1\CarClassLibrary.dll
+C:\Users\jarty\source\repos\CarClassLibrary\CarClassLibrary\obj\Debug\netcoreapp3.1\CarClassLibrary.pdb
